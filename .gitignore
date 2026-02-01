@@ -1,0 +1,15 @@
+# Ignore dataset
+dataset/
+data/
+
+# Ignore large files
+*.zip
+*.rar
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
