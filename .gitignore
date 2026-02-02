@@ -2,6 +2,7 @@
 dataset/
 data/
 
+
 # Ignore large files
 *.zip
 *.rar
@@ -13,3 +14,4 @@ __pycache__/
 # Virtual environment
 venv/
 .env
+notebooks/brain_mri_model_final.h5
